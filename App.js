@@ -11,7 +11,7 @@ export default function App() {
   return (
     <SafeAreaView style={styles.container}>
       <View style={styles.search}>
-        <Text>search</Text>
+        <Text>hello</Text>
       </View>
       <View style={styles.list}>
         <Text>list</Text>
